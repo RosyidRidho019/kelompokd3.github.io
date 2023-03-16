@@ -137,7 +137,7 @@ navbar {
 
 /* body1 */
 .body1 {
-  background-image: url("gambar.png");
+  background-image: url(https://raw.githubusercontent.com/RosyidRidho019/kelompokd3.github.io/main/css/gambar.png);
   background-color: #efea7d;
   background-size: cover;
   position: static;
